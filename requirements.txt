@@ -2,4 +2,4 @@ Django>=2.1.0,<2.2.0
 black==18.9b0
 flake8==3.7.7
 pre-commit==1.14.4
-
+psycopg2
