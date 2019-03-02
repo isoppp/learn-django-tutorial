@@ -3,7 +3,8 @@ exclude =
   migrations,
   __pycache__,
   manage.py,
-  settings.py
+  settings.py,
+  .venv
 ignore = E203, E266, E501, W503, F403, F401
 max-line-length = 120
 max-complexity = 18
