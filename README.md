@@ -6,3 +6,8 @@
 - source .env/bin/activate.fish
 - pip install -r requirements.txt
 - pre-commit install
+
+## dev commands
+
+- source .env/bin/activate.fish
+- python manage.py runserver
