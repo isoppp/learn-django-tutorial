@@ -11,3 +11,7 @@
 
 - source .env/bin/activate.fish
 - python manage.py runserver
+- python manage.py makemigration
+- python manage.py sqlmigrate 
+  - dryrun?
+- python manage.py migrate
