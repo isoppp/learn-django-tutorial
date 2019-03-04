@@ -80,7 +80,7 @@ DATABASES = {
         "NAME": "django_tutorial",
         "HOST": "127.0.0.1",
         "PORT": "5432",
-        "USER": "isoppp",
+        "USER": "h.isogai",
         "PASSWORD": "",
     }
 }
